@@ -6,5 +6,3 @@ if (index.name === "Susan") {
     console.log("Expected: Susan, Received: "+index.name)
 }
 
-
-
